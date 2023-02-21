@@ -8,21 +8,24 @@
     <link rel="stylesheet" href="style.css">
     <style>
         body {
-            background-image: url(imagens/espaco.jpg);
-            background-position: center center;
+            position: relative;
+            
+            height: 98vh;
+            background: black url(imagens/espaco.jpg) center center no-repeat;
+            background-size: cover;
         }
 
-        .flex {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 10%;
+        #conteudo {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
         }
     </style>
 </head>
 <body>
-    <article class="flex">
-        <div>
+    <article>
+        <div id="conteudo">
             <img src="imagens/astronauta.png" alt="astronauta">
         </div>
     </article>
