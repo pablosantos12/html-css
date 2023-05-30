@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Posicionamento (static, relative, absolute e fixed)</title>
+  <style>
+    body {
+      background-color: #007fc7;
+    }
+    
+    #container {
+      background-color: #fff;
+      width: 800px;
+      margin: auto;
+      padding: 10px;
+    }
+
+    h1 {
+      position: static;
+      border: 1px solid red;
+    }
+
+    p {
+      width: 300px;
+      border: 2px solid blue;
+    }
+
+    .relative {
+      border: 1px solid red;
+      position: relative;
+      left: 300px;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+   <h1>Posicionamento</h1>
+   
+   <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, aliquam esse. Atque impedit iusto totam dicta sit accusamus quis! Reprehenderit rerum a libero velit, veniam perspiciatis cum quaerat facilis deleniti! 
+   </p>
+   <p class="relative">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus incidunt similique recusandae eius perferendis quam ducimus ipsa odio nisi accusantium animi odit dolores magnam, ad beatae aliquid, pariatur aperiam?
+   </p>
+   <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit vero qui laborum architecto sequi et a nam maiores obcaecati fugiat doloremque, sapiente deserunt repellendus expedita unde sit. Adipisci, aspernatur expedita?
+   </p>
+  </div>
+</body>
+</html>
