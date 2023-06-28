@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"c",
+				"conteudo-menu"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fonta",
+				"font-family"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"repa",
+				"repeat-x"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"em",
+				"em"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"emmet",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"emme",
+				"Emmet: Enter Abbreviation Mode"
+			],
+			[
+				"",
+				"Emmet: Wrap with Abbreviation"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-chale-hotel/index.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-chale-hotel/estilos/style.css",
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-site-de-noticias/index.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-site-de-noticias/estilos/style.css",
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-site-de-noticias/nova-legislacao.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/projeto-site-de-noticias/brasil.html",
+		"/C/Windows/System32/DriverStore/FileRepository/ssdudfu.inf_amd64_72f5a9944a4aacbd/amd64/ssdudfu.sys",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex039/index.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex039/estilos/style.css",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex038/form.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex038/estilos/style.css",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex037/tabelas.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos/html-css/exercicios/ex037/estilos/style.css",
+		"/C/Users/Home/OneDrive/Documentos/estudos-desenvolvimento-web/exercicio-aula016/index.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos-desenvolvimento-web/exercicio-aula016/contato.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos-desenvolvimento-web/primeiro-projeto/projeto.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos-desenvolvimento-web/projeto-aula001/index.html",
+		"/C/Users/Home/OneDrive/Documentos/estudos-desenvolvimento-web/projeto-aula001/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "paralax.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
